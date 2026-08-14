@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-up5hqt.juragan89a.site/sitemap.xml
